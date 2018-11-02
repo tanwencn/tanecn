@@ -20,7 +20,6 @@ TaneCN提供了最基础的CMS的基础架构和功能，你可以在此基础�
   - 购物车
 
 ## 相关
-- [官网](https://www.tanecn.com)
 - [文档](https://docs.tanecn.com/)
 - [演示](https://demo.tanecn.com/admin)
 
